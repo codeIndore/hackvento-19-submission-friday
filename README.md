@@ -16,11 +16,12 @@ We propose a new image processing pipeline that addresses the challenges of extr
 We systematically analyse key elements of the pipeline. 
 ## The PSNR(Peak Signal to Noise ratio) for this model is 31 .
 
-# How to Test:
+# Custom Test:
 	First of all you need to clone the project either from github or if you are having a copy of the folder 
 	Then you need to download the dataset of Sony(25 GB) which contains many dark images. Later you 
 	Can run :
 			Python 3 manage.py runserver
+			(upload a dark image) 
 
 
 # How it Works :
