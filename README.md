@@ -2,6 +2,7 @@
 hackvento-19-submission-friday created by GitHub Classroom
 
 # About The Project:  
+## It is a Django Based End-to-End application which denoises the low photon images (short exposure images).
 Capturing a moment in low light is highly challenging due to low photon count and low SNR (Signal to noise ratio). Short-exposure images suffer from noise, while long exposure can lead to blurry images and is often impractical. So to reduce the noise and make the image achieve high accuracy we made a project Dark vision enhancement  . There are physical means to increase SNR in low light , including  opening the aperture , extending exposure time, and using flash . But each of them is having their own characterstics . 
 
 # Scope :
